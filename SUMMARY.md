@@ -1,10 +1,10 @@
 # Table of contents
 
-## 第一部分、如何登岛
+## 第一部分、如何登岛 <a href="#第二部分、岛上风景" id="第二部分、岛上风景"></a>
 
 * [Page 2](README.md)
-* [Page 1](di-yi-bu-fen-ru-he-deng-dao/page-1.md)
+* [Page 1](第二部分、岛上风景/page-1.md)
 
-## 第二部分、岛上风景
+## 第二部分、岛上风景 <a href="#第二部分、岛上风景" id="第二部分、岛上风景"></a>
 
-* [Page 3](di-er-bu-fen-dao-shang-feng-jing/page-3.md)
+* [Page 3](第二部分、岛上风景-1/page-3.md)
